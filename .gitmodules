@@ -1,0 +1,3 @@
+[submodule "ironclaw"]
+	path = ironclaw
+	url = git@github.com:DeadBranches-Agent/ironclaw.git
